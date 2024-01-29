@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Shikhar, a full-time front-end web developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Shikhar, a full-time front-end web developer 👨‍💻 and app developer working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on web development project  
+- 🔭 I’m currently working on app development project  
   
 
-- 🌱 I’m currently learning Tailwind  
+- 🌱 I’m currently learning java part time
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 👉 Currently focused on Flutter app development 
   
 
 - ⚡ Fun fact: we go gym  
