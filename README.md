@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: we go gym
 
-- $  Kaam karwane ki fees lagegi (Bure Bure Zaimon)
+- $    Kaam karwane ki fees lagegi (Bure Bure Zaimon)
   
 
 <br/>  
