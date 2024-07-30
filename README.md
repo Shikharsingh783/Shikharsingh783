@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #e4e5e9; font-size: 1.6em; margin-top: 0;">A passionate Android Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" style="border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" style="border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);"/>
 </p>
 
 <p align="center" style="font-size: 1.1em;">
