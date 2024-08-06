@@ -114,3 +114,9 @@
 </p>
 
 </div>
+
+<h3 align="center" style="color: #00d084; font-size: 1.5em; margin-top: 30px;">👀 Profile Views:</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Shikharsingh783/count.svg" alt="Profile Views" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); max-width: 100%;"/>
+</p>
+
